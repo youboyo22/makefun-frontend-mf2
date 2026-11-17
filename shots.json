@@ -1,0 +1,5 @@
+[
+  { "file": "1-board.jpg", "path": "#/", "viewport": { "width": 768, "height": 480 } },
+  { "file": "2-bounty.jpg", "path": "#/b/makefun-frontend-01", "viewport": { "width": 640, "height": 400 }, "scale": 2 },
+  { "file": "3-leaderboard.jpg", "path": "#/b/makefun-frontend-01/leaderboard", "viewport": { "width": 640, "height": 400 }, "scale": 2 }
+]
